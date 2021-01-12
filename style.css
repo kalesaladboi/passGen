@@ -148,3 +148,14 @@ button[disabled] {
    display: grid;
    grid-template-columns: auto auto;
  }
+
+ .password-display {
+   background-color:antiquewhite;
+   color: rgb(0, 0, 0);
+   height: 2rem;
+   width: 350px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   word-break: break-all;
+ }
