@@ -143,7 +143,6 @@ button[disabled] {
   }
 }
 
-
  .form{
    display: grid;
    grid-template-columns: auto auto;
